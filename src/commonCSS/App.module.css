@@ -1,0 +1,10 @@
+.phonebook {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 80vw;
+  border-radius: 10px;
+  background-color: #d7b3fc;
+  margin: auto;
+  box-shadow: 1px 1px 5px, 5 rgb(198, 134, 195);
+}
